@@ -1,0 +1,7 @@
+[Unit]
+Description=mydesc
+
+[Service]
+Type=simple
+ExecStart=/bin/bash /tmp/myscript.sh
+User=ec2-user

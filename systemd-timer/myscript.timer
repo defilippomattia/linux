@@ -1,0 +1,9 @@
+[Unit]
+Description=mydescription
+
+[Timer]
+Unit=myscript.service
+OnBootSec=2min
+
+[Install]
+WantedBy=timers.target
