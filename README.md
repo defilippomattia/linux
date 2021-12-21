@@ -9,5 +9,5 @@ Workbench > Apperance > Edit in settings.json
 For changing username@hostname color:  
 nano ~/.bashrc  
 append:  
-export PS1="\e[0;31m[\u@\h \W]\$ \e[m "  
+export PS1="\e[0;36m[\u@\h \W]\$ \e[m "  
 source ~/.bashrc  
