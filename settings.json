@@ -24,5 +24,8 @@
     "terminal.integrated.fontSize": 15,
     "terminal.integrated.fontWeight": "500",
     "terminal.integrated.cursorStyle": "line",
-    "terminal.integrated.fontFamily": ""
+    "terminal.integrated.fontFamily": "",
+    
+    "workbench.editor.enablePreview": false,
+    "workbench.editor.enablePreviewFromQuickOpen": false
 }
